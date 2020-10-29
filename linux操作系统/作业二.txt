@@ -1,0 +1,2 @@
+阅读并运行示例fifo目录中的fifo_read和fifo_write。
+修改fifo_read为非阻塞运行，并且接收到exit时结束运行。
